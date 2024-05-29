@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+
+
+header  h1{
+   background-color: blue;
+   text-align: center;
+   font-size: 100px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main div h2{
+    background-color: chartreuse;
+    padding: 5px;
+}
+center p{
+    background-color: chocolate;
+}
+footer div h2{
+    background-color: yellow;
+    font-size: 70px;
+
+}
+
+
+header h1{
+    background-color: brown;
+}
+header h1{
+    background-color: chartreuse;
+}
